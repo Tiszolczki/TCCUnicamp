@@ -35,7 +35,6 @@ Para execução local, crie manualmente o diretório config/ e insira os arquivo
 🚀 Como Executar
 Clone o repositório:
 git clone https://github.com/Tiszolczki/TCCUnicamp.git
-cd TCCUnicamp
 
 Ative o ambiente virtual:
 Linux/macOS:
