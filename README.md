@@ -28,6 +28,10 @@ write/: Scripts para escrita e persistência dos dados processados.
 
 venv/: Ambiente virtual contendo as dependências do projeto.
 
+⚠️ Importante:
+O diretório config/, responsável por armazenar credenciais de acesso (como configurações de webhook ou conexões externas), foi removido do repositório por motivos de segurança.
+Para execução local, crie manualmente o diretório config/ e insira os arquivos necessários com suas credenciais de acesso nos formatos esperados pelos scripts.
+
 🚀 Como Executar
 Clone o repositório:
 git clone https://github.com/Tiszolczki/TCCUnicamp.git
